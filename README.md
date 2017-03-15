@@ -1,5 +1,6 @@
 # classify
 ##AndroidView
+
 1.[仿京东快报公告实现NoticeView](https://github.com/xiaoyanger0825/NoticeView)
 
 2.[Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)

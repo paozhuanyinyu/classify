@@ -46,13 +46,28 @@
 
 23.[XListView](https://github.com/MarkMjw/PullToRefresh)
 
+24.[Alerter 从手机顶部下拉展示toast信息的库](https://github.com/Tapadoo/Alerter)
+
+25.[BaseRecyclerViewAdapterHelper 好用的recyclerView](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+
+26.[lottie airbnb出品开源动画解决方案(适配android4.0以及ios8，ReactNative)](https://github.com/airbnb/lottie-android)
+
 ##Android资料
 1.[UI](https://github.com/wasabeef/awesome-android-ui)
 
 2.[免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
+##Android工具库
+1.[ReLinker 安全加载so文件的库](https://github.com/KeepSafe/ReLinker)
+
+2.[logger 一个强大好用的日志库](https://github.com/orhanobut/logger)
+
+3.[Android-Easy-MultiDex Android分包插件](https://github.com/TangXiaoLv/Android-Easy-MultiDex)
+
+4.[ARouter android组件化路由器](https://github.com/alibaba/ARouter)
+
+5.[SwipeBackHelper android左滑返回工具库](https://github.com/Jude95/SwipeBackHelper)
+
+6.[ModularizationArchitecture Android搭框架示例](https://github.com/SpinyTech/ModularizationArchitecture)
 
 
-
-
-	

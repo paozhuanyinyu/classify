@@ -72,4 +72,44 @@
 
 6.[ModularizationArchitecture Android搭框架示例](https://github.com/SpinyTech/ModularizationArchitecture)
 
+7.[walle 多渠道打包方案(V2)](https://github.com/Meituan-Dianping/walle)
+
+8.[mars 微信终端开源的跨平台基础组件](https://github.com/Tencent/mars)
+
+9.[AndResGuard 减小apk的体积](https://github.com/shwenzhang/AndResGuard)
+
+##Android性能测试
+
+1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)
+
+2.[SwissArmyKnife UI调试工具](https://github.com/android-notes/SwissArmyKnife)
+
+3.[Emmagee网易出品](https://github.com/NetEase/Emmagee)
+
+4.[GT腾讯出品](https://github.com/Tencent/GT)
+
+##Android热修复
+
+1.[Tinker 微信出品](https://github.com/Tencent/tinker)
+
+##Android插件
+
+1.[Altas 阿里出品](https://github.com/alibaba/atlas)
+
+##图片缓存框架
+
+1.[Fresco facebook开源的图片处理框架](https://github.com/facebook/fresco)
+
+2.[Glide google开源的图片处理框架，内存处理极好](https://github.com/bumptech/glide)
+
+##网络请求框架
+1.[Retrofit2+OkHttp3 square公司开源的网络请求框架](https://github.com/square/retrofit)
+
+##Rx系列
+
+1.[RxJava](https://github.com/ReactiveX/RxJava)
+
+2.[RxPermissions](https://github.com/tbruyelle/RxPermissions)
+
+3.[RxBinding](https://github.com/JakeWharton/RxBinding)
 

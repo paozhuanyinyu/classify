@@ -1,5 +1,5 @@
 # classify
-##AndroidView
+## AndroidView
 
 1.[仿京东快报公告实现NoticeView](https://github.com/xiaoyanger0825/NoticeView)
 
@@ -53,13 +53,13 @@
 
 26.[lottie airbnb出品开源动画解决方案(适配android4.0以及ios8，ReactNative)](https://github.com/airbnb/lottie-android)
 
-##Android资料
+## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)
 
 2.[免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
-##Android工具库
+## Android工具库
 
 1.[ReLinker 安全加载so文件的库](https://github.com/KeepSafe/ReLinker)
 
@@ -79,7 +79,7 @@
 
 9.[AndResGuard 减小apk的体积](https://github.com/shwenzhang/AndResGuard)
 
-##Android性能测试
+## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)
 
@@ -89,24 +89,24 @@
 
 4.[GT腾讯出品](https://github.com/Tencent/GT)
 
-##Android热修复
+## Android热修复
 
 1.[Tinker 微信出品](https://github.com/Tencent/tinker)
 
-##Android插件
+## Android插件
 
 1.[Altas 阿里出品](https://github.com/alibaba/atlas)
 
-##图片缓存框架
+## 图片缓存框架
 
 1.[Fresco facebook开源的图片处理框架](https://github.com/facebook/fresco)
 
 2.[Glide google开源的图片处理框架，内存处理极好](https://github.com/bumptech/glide)
 
-##网络请求框架
+## 网络请求框架
 1.[Retrofit2+OkHttp3 square公司开源的网络请求框架](https://github.com/square/retrofit)
 
-##Rx系列
+## Rx系列
 
 1.[RxJava](https://github.com/ReactiveX/RxJava)
 

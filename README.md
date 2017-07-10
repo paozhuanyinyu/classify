@@ -53,6 +53,12 @@
 
 26.[lottie airbnb出品开源动画解决方案(适配android4.0以及ios8，ReactNative)](https://github.com/airbnb/lottie-android)
 
+27.[知乎开源图片选择框架](https://github.com/zhihu/Matisse)
+
+28.[阿里开源布局框架vlayout](https://github.com/alibaba/vlayout)
+
+29.[阿里开源动态化构建Native页面的跨平台框架 Tangram](https://github.com/alibaba/Tangram-Android)
+
 ## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)
@@ -78,6 +84,13 @@
 8.[mars 微信终端开源的跨平台基础组件](https://github.com/Tencent/mars)
 
 9.[AndResGuard 减小apk的体积](https://github.com/shwenzhang/AndResGuard)
+
+10.[ImmersionBar 4.4以上透明状态栏](https://github.com/gyf-dev/ImmersionBar)
+
+11.[监听键盘弹出收回](https://github.com/pqpo/InputMethodHolder)
+
+12.[Facebook开源浏览器调试数据库网络库 Stetho](https://github.com/facebook/stetho)
+
 
 ## Android性能测试
 
@@ -113,4 +126,9 @@
 2.[RxPermissions](https://github.com/tbruyelle/RxPermissions)
 
 3.[RxBinding](https://github.com/JakeWharton/RxBinding)
+
+
+
+---------------------------------------------------------
+<meta http-equiv="refresh" content="20">
 

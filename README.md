@@ -59,6 +59,8 @@
 
 29.[阿里开源动态化构建Native页面的跨平台框架 Tangram](https://github.com/alibaba/Tangram-Android)
 
+30.[下拉刷新上拉加载框架](https://github.com/scwang90/SmartRefreshLayout)
+
 ## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)
@@ -91,6 +93,9 @@
 
 12.[Facebook开源浏览器调试数据库网络库 Stetho](https://github.com/facebook/stetho)
 
+13.[图片压缩](https://github.com/Curzibn/Luban)
+
+14.[pdf阅读](https://github.com/barteksc/AndroidPdfViewer)
 
 ## Android性能测试
 
@@ -115,6 +120,8 @@
 1.[Fresco facebook开源的图片处理框架](https://github.com/facebook/fresco)
 
 2.[Glide google开源的图片处理框架，内存处理极好](https://github.com/bumptech/glide)
+
+3.[图片框架封装](https://github.com/ladingwu/ImageLoaderFramework)
 
 ## 网络请求框架
 1.[Retrofit2+OkHttp3 square公司开源的网络请求框架](https://github.com/square/retrofit)

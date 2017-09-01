@@ -97,6 +97,22 @@
 
 14.[pdf阅读](https://github.com/barteksc/AndroidPdfViewer)
 
+16.[Java函数调用顺序和函数调用耗时AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder)
+
+17.[Android Emoji兼容库sample](https://github.com/googlesamples/android-EmojiCompat);[参考链接](http://blog.csdn.net/cjpx00008/article/details/74009162)
+
+18.[Android媒体播放器封装 基于API16+](https://github.com/google/ExoPlayer)
+
+19.[Google android新组件sample](https://github.com/googlesamples/android-architecture-components)
+
+20.[Google Android开发sample](https://github.com/google/iosched)
+
+21.[学习正则表达式](https://github.com/zeeshanu/learn-regex)
+
+22.[二维码相关功能集合](https://github.com/bingoogolapple/BGAQRCode-Android)
+
+23.[腾讯开源加速webview首屏加载速度的库](https://github.com/Tencent/VasSonic)
+
 ## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)

@@ -113,6 +113,8 @@
 
 23.[腾讯开源加速webview首屏加载速度的库](https://github.com/Tencent/VasSonic)
 
+24.[锁屏](https://github.com/Rogero0o/ScreenLocker)
+
 ## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)
@@ -130,6 +132,10 @@
 ## Android插件
 
 1.[Altas 阿里出品](https://github.com/alibaba/atlas)
+
+2.[RePlugin 360出品](https://github.com/Qihoo360/RePlugin)
+
+
 
 ## 图片缓存框架
 

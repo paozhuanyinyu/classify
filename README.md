@@ -61,6 +61,8 @@
 
 30.[下拉刷新上拉加载框架](https://github.com/scwang90/SmartRefreshLayout)
 
+31.[仿探探左右滑](https://github.com/xiepeijie/SwipeCardView)
+
 ## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)
@@ -115,6 +117,10 @@
 
 24.[锁屏](https://github.com/Rogero0o/ScreenLocker)
 
+25.[RxTools](https://github.com/vondear/RxTools)
+
+26.[OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
+
 ## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)
@@ -155,6 +161,8 @@
 2.[RxPermissions](https://github.com/tbruyelle/RxPermissions)
 
 3.[RxBinding](https://github.com/JakeWharton/RxBinding)
+
+4.[RxLifecycle](https://github.com/trello/RxLifecycle)
 
 
 

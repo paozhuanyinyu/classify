@@ -75,6 +75,8 @@
 
 37.[歌词View](https://github.com/wangchenyan/LrcView)
 
+38.[下拉头部放大效果的自定义View](https://github.com/jeasonlzy/PullZoomView)
+
 ## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)
@@ -144,6 +146,18 @@
 31.[图片编辑](https://github.com/jarlen/PhotoEdit)
 
 32.[组件化路由器OkDeepLink](https://github.com/jjerry/OkDeepLink)
+
+33.[图片/视频选择，图片编辑](https://github.com/guoxiaoxing/phoenix)
+
+34.[保活Service](https://github.com/xuningjack/ServiceKeep)
+
+35.[组件化播放器](https://github.com/jiajunhui/PlayerBase)
+
+36.[扫描代码检测可能会空指针的代码](https://github.com/uber/NullAway)
+
+37.[滤镜相机](https://github.com/zerochl/MagicShow)
+
+38.[蓝松视频编辑sdk](https://github.com/LanSoSdk/LanSoEditor_common)
 
 ## Android性能测试
 

@@ -63,6 +63,18 @@
 
 31.[仿探探左右滑](https://github.com/xiepeijie/SwipeCardView)
 
+32.[跳动的TextView](https://github.com/frakbot/JumpingBeans)
+
+33.[强大的轮播图控件](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
+
+34.[小米卸载app爆炸粒子效果](https://github.com/ChanJLee/ExplosionField)
+
+35.[类似打字机效果EditText](https://github.com/andyxialm/TyperEditText)
+
+36.[直播间动画框架(YY方案)SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android)
+
+37.[歌词View](https://github.com/wangchenyan/LrcView)
+
 ## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)
@@ -120,6 +132,18 @@
 25.[RxTools](https://github.com/vondear/RxTools)
 
 26.[OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
+
+27.[计步器](https://github.com/jiahongfei/TodayStepCounter)
+
+28.[蓝牙操作封装库](https://github.com/a-voyager/BluetoothHelper)
+
+29.[ijkplayer播放器示例](https://github.com/Rukey7/IjkPlayerView)
+
+30.[音乐播放器](https://github.com/ryanhoo/StylishMusicPlayer)
+
+31.[图片编辑](https://github.com/jarlen/PhotoEdit)
+
+32.[组件化路由器OkDeepLink](https://github.com/jjerry/OkDeepLink)
 
 ## Android性能测试
 

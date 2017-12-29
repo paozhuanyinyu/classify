@@ -83,6 +83,10 @@
 
 2.[免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
+3.[国外资料翻译](https://github.com/xitu/gold-miner)
+
+4.[Hack教程](https://github.com/Hack-with-Github/Awesome-Hacking)
+
 ## Android工具库
 
 1.[ReLinker 安全加载so文件的库](https://github.com/KeepSafe/ReLinker)
@@ -160,6 +164,8 @@
 38.[蓝松视频编辑sdk](https://github.com/LanSoSdk/LanSoEditor_common)
 
 39.[Android无埋点库](https://github.com/foolchen/AndroidTracker)
+
+40.[选择图片编辑图片](https://github.com/guoxiaoxing/phoenix)
 
 ## Android性能测试
 

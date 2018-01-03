@@ -204,6 +204,8 @@
 
 3.[图片框架封装](https://github.com/ladingwu/ImageLoaderFramework)
 
+4.[Glide webp支持库](https://github.com/zjupure/GlideWebpDecoder)
+
 ## 网络请求框架
 1.[Retrofit2+OkHttp3 square公司开源的网络请求框架](https://github.com/square/retrofit)
 

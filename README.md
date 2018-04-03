@@ -167,6 +167,10 @@
 
 40.[选择图片编辑图片](https://github.com/guoxiaoxing/phoenix)
 
+41.[视频转Gif](https://github.com/boybeak/GifMaker)
+
+42.[视频播放基于ijkplayer](https://github.com/CarGuo/GSYVideoPlayer/)
+
 ## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)

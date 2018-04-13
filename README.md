@@ -77,6 +77,8 @@
 
 38.[下拉头部放大效果的自定义View](https://github.com/jeasonlzy/PullZoomView)
 
+39.[SVG转换Android库](https://github.com/MegatronKing/SVG-Android)
+
 ## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)

@@ -227,6 +227,8 @@
 
 4.[RxLifecycle](https://github.com/trello/RxLifecycle)
 
+5.[AutoDispose管理Rx生命周期](https://github.com/uber/AutoDispose)
+
 
 
 ---------------------------------------------------------

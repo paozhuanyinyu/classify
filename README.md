@@ -173,6 +173,8 @@
 
 42.[视频播放基于ijkplayer](https://github.com/CarGuo/GSYVideoPlayer/)
 
+43.[Android5.0截屏方案](https://github.com/weizongwei5/AndroidScreenShot_SysApi)
+
 ## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)

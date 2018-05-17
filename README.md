@@ -229,7 +229,18 @@
 
 5.[AutoDispose管理Rx生命周期](https://github.com/uber/AutoDispose)
 
+## FFmpeg
+1.[FFmpeg4Android](https://github.com/mabeijianxi/FFmpeg4Android)
 
+2.[FFmpeg视频录制](https://github.com/mabeijianxi/small-video-record)
+
+3.[视频播放封装，基于ijkplayer](https://github.com/yangchong211/YCVideoPlayer)
+
+4.[视频播放封装，基于ijkplayer](https://github.com/CarGuo/GSYVideoPlayer)
+
+5.[ijkplayer](https://github.com/Bilibili/ijkplayer)
+
+6.[仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑](https://github.com/Zhaoss/WeiXinRecordedDemo)
 
 ---------------------------------------------------------
 <meta http-equiv="refresh" content="20">

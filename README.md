@@ -223,6 +223,8 @@
 ## 网络请求框架
 1.[Retrofit2+OkHttp3 square公司开源的网络请求框架](https://github.com/square/retrofit)
 
+2.[Retrofit请求缓存](https://github.com/VictorAlbertos/RxCache)
+
 ## Rx系列
 
 1.[RxJava](https://github.com/ReactiveX/RxJava)

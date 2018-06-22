@@ -175,6 +175,12 @@
 
 43.[Android5.0截屏方案](https://github.com/weizongwei5/AndroidScreenShot_SysApi)
 
+44.[播放器封装](https://github.com/jiajunhui/PlayerBase)
+
+45.[音乐播放器](https://github.com/lizixian18/NiceMusic)
+
+46.[监听键盘弹起隐藏](https://github.com/Jacksgong/JKeyboardPanelSwitch)
+
 ## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)

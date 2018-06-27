@@ -181,6 +181,10 @@
 
 46.[监听键盘弹起隐藏](https://github.com/Jacksgong/JKeyboardPanelSwitch)
 
+47.[AOP学习例子](https://github.com/north2016/T-MVP)
+
+48.[Markdown Android实现](https://github.com/Shouheng88/MarkNote)
+
 ## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)

@@ -79,6 +79,10 @@
 
 39.[SVG转换Android库](https://github.com/MegatronKing/SVG-Android)
 
+40.[对齐的TextView](https://github.com/androiddevelop/AlignTextView)
+
+41.[波浪Loading](https://github.com/race604/WaveLoading)
+
 ## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)

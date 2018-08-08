@@ -260,6 +260,13 @@
 
 6.[仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑](https://github.com/Zhaoss/WeiXinRecordedDemo)
 
+## OCR
+1.[OCR开源项目](https://github.com/tesseract-ocr/tesseract/)
+
+2.[OCR数据集](https://github.com/tesseract-ocr/tessdata)
+
+3.[OCR Android](https://github.com/rmtheis/tess-two)
+
 ---------------------------------------------------------
 <meta http-equiv="refresh" content="20">
 

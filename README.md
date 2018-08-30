@@ -191,6 +191,8 @@
 
 49.[Utils工具库](AndroidUtilCode)
 
+50.[Android屏幕适配](https://github.com/JessYanCoding/AndroidAutoSize)
+
 ## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)

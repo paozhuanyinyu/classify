@@ -195,7 +195,9 @@
 
 50.[Android屏幕适配](https://github.com/JessYanCoding/AndroidAutoSize)
 
-51.[微信出品的高性能key-value工具库](https://github.com/Tencent/MMKV)
+51.[微信出品的高性能key-value缓存工具库](https://github.com/Tencent/MMKV)
+
+52.[编译时将xml转化为Java代码的工具库](https://github.com/iReaderAndroid/X2C)
 
 ## Android性能测试
 

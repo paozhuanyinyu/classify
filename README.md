@@ -83,6 +83,8 @@
 
 41.[波浪Loading](https://github.com/race604/WaveLoading)
 
+42.[功能超强的TextView](https://github.com/lygttpod/SuperTextView)
+
 ## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)
@@ -192,6 +194,8 @@
 49.[Utils工具库](AndroidUtilCode)
 
 50.[Android屏幕适配](https://github.com/JessYanCoding/AndroidAutoSize)
+
+51.[微信出品的高性能key-value工具库](https://github.com/Tencent/MMKV)
 
 ## Android性能测试
 

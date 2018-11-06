@@ -199,6 +199,11 @@
 
 52.[编译时将xml转化为Java代码的工具库](https://github.com/iReaderAndroid/X2C)
 
+53.[美团开源日志收集库](https://github.com/Meituan-Dianping/Logan)
+
+54.[帮你快速开发AndroidStudio插件](https://github.com/Leaking/Hunter)
+
+
 ## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)
@@ -274,6 +279,13 @@
 2.[OCR数据集](https://github.com/tesseract-ocr/tessdata)
 
 3.[OCR Android](https://github.com/rmtheis/tess-two)
+
+
+### iOS
+1.[Dash ios开源](https://github.com/Kapeli/Dash-iOS)
+
+### Flutter
+1.[Flutter Wechat Plugin](https://github.com/OpenFlutter/fluwx)
 
 ---------------------------------------------------------
 <meta http-equiv="refresh" content="20">

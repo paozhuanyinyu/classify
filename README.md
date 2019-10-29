@@ -347,6 +347,7 @@
 
 2.[Google开源的压缩图片库](https://github.com/GoogleChromeLabs/squoosh)
 
+3.[抠图神器remove.bg网站](https://www.remove.bg/)
 
 ---------------------------------------------------------
 <meta http-equiv="refresh" content="20">

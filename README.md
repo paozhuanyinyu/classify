@@ -343,7 +343,7 @@
 
 
 ### 工具箱
-1.[Mozilla开源加密工具](https://github.com/mozilla/send)
+1.[Mozilla开源加密分享工具](https://github.com/mozilla/send)
 
 2.[Google开源的压缩图片库](https://github.com/GoogleChromeLabs/squoosh)
 

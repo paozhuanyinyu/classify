@@ -85,6 +85,8 @@
 
 42.[功能超强的TextView](https://github.com/lygttpod/SuperTextView)
 
+43.[今日头条屏幕适配原理实现](https://github.com/JessYanCoding/AndroidAutoSize)
+
 ## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)
@@ -94,6 +96,8 @@
 3.[国外资料翻译](https://github.com/xitu/gold-miner)
 
 4.[Hack教程](https://github.com/Hack-with-Github/Awesome-Hacking)
+
+5.[Android面试题集](https://github.com/Ellen2018/AndroidFaceInterview)
 
 ## Android工具库
 
@@ -203,6 +207,11 @@
 
 54.[帮你快速开发AndroidStudio插件](https://github.com/Leaking/Hunter)
 
+55.[腾讯开源的与系统通信解决方案HardCoder](https://github.com/Tencent/Hardcoder)
+
+56.[Android开源抓包框架](https://github.com/MegatronKing/NetBare)
+
+57.[爱奇艺开源的捕获崩溃的框架](https://github.com/iqiyi/xCrash)
 
 ## Android性能测试
 
@@ -214,6 +223,8 @@
 
 4.[GT腾讯出品](https://github.com/Tencent/GT)
 
+5.[腾讯开源APM框架](https://github.com/Tencent/matrix)
+
 ## Android热修复
 
 1.[Tinker 微信出品](https://github.com/Tencent/tinker)
@@ -223,6 +234,8 @@
 1.[Altas 阿里出品](https://github.com/alibaba/atlas)
 
 2.[RePlugin 360出品](https://github.com/Qihoo360/RePlugin)
+
+3.[腾讯开源的零反射全动态插件框架](https://github.com/Tencent/Shadow)
 
 ## Android路由
 1. [ARouter android组件化路由器](https://github.com/alibaba/ARouter)
@@ -286,6 +299,52 @@
 
 ### Flutter
 1.[Flutter Wechat Plugin](https://github.com/OpenFlutter/fluwx)
+
+2.[用golang开发的Flutter桌面版本](https://github.com/go-flutter-desktop/go-flutter)
+
+3.[Flutter电子书](https://github.com/flutterchina/flutter-in-action)
+
+4.[搭建Flutter插件私服](https://github.com/bytedance/unpub)
+
+5.[Flutter学习资料flutter-study](https://github.com/yang7229693/flutter-study)
+
+6.[闲鱼开源的dart面向切面编程的框架](https://github.com/alibaba-flutter/aspectd)
+
+7.[闲鱼开源的Flutter混合工程框架](https://github.com/alibaba/flutter_boost)
+
+8.[开源的Flutter UI组件库](https://github.com/flutterchina/flukit)
+
+9.[阿里巴巴开源Flutter UI学习手册](https://github.com/alibaba/flutter-go)
+
+10.[Google开源的Flutter Demo](https://github.com/2d-inc/HistoryOfEverything)
+
+11.[Flutter开源资料Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook)
+
+12.[Flutter路由框架fluro](https://github.com/theyakka/fluro)
+
+### Python
+1.[下载免费音乐的Python库music-dl](https://github.com/0xHJK/music-dl)
+
+2.[下载网页视频的Python库annie](https://github.com/iawia002/annie)
+
+3.[下载网页视频的Python库youtube-dl](https://github.com/ytdl-org/youtube-dl)
+
+4.[下载网页视频的Python库you-get](https://github.com/soimort/you-get)
+
+5.[微信机器人开源Python库wxpy](https://github.com/youfou/wxpy)
+
+6.[微信机器人开源Python库WeixinBot](https://github.com/Urinx/WeixinBot)
+
+### Golang
+1.[golang后端开发脚手架](https://github.com/astaxie/beego)
+
+
+
+### 工具箱
+1.[Mozilla开源加密工具](https://github.com/mozilla/send)
+
+2.[Google开源的压缩图片库](https://github.com/GoogleChromeLabs/squoosh)
+
 
 ---------------------------------------------------------
 <meta http-equiv="refresh" content="20">

@@ -297,6 +297,12 @@
 ### iOS
 1.[Dash ios开源](https://github.com/Kapeli/Dash-iOS)
 
+2.[ios网络请求框架AFNetworking](https://github.com/AFNetworking/AFNetworking)
+
+3.[ios图片加载框架SDWebImage](https://github.com/SDWebImage/SDWebImage)
+
+4.[ios KVO第三方框架](https://github.com/facebook/KVOController)
+
 ### Flutter
 1.[Flutter Wechat Plugin](https://github.com/OpenFlutter/fluwx)
 

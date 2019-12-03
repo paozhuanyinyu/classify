@@ -213,6 +213,10 @@
 
 57.[爱奇艺开源的捕获崩溃的框架](https://github.com/iqiyi/xCrash)
 
+58.[Android保活Cactus](https://github.com/gyf-dev/Cactus)
+
+59.[判断Fragment是否可见](https://github.com/goweii/LazyFragment)
+
 ## Android性能测试
 
 1.[TinyDancer帧率测试](https://github.com/friendlyrobotnyc/TinyDancer)

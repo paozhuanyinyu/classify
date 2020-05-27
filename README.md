@@ -359,6 +359,13 @@
 
 3.[抠图神器remove.bg网站](https://www.remove.bg/)
 
+### AOP
+1.[ASM](https://asm.ow2.io/)
+
+2.[aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)
+
+3.[闲鱼开源aspect for dart](https://github.com/alibaba-flutter/aspectd)
+
 ---------------------------------------------------------
 <meta http-equiv="refresh" content="20">
 

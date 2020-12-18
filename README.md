@@ -87,6 +87,12 @@
 
 43.[今日头条屏幕适配原理实现](https://github.com/JessYanCoding/AndroidAutoSize)
 
+44.[字节跳动直播间礼物动画方案](https://github.com/bytedance/AlphaPlayer)
+
+44.[字节跳动直播间礼物动画方案](https://github.com/bytedance/AlphaPlayer)
+
+45.[企鹅电竞直播间礼物动画方案](https://github.com/Tencent/vap)
+
 ## Android资料
 
 1.[UI](https://github.com/wasabeef/awesome-android-ui)

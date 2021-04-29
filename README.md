@@ -89,8 +89,6 @@
 
 44.[字节跳动直播间礼物动画方案](https://github.com/bytedance/AlphaPlayer)
 
-44.[字节跳动直播间礼物动画方案](https://github.com/bytedance/AlphaPlayer)
-
 45.[企鹅电竞直播间礼物动画方案](https://github.com/Tencent/vap)
 
 ## Android资料
@@ -222,6 +220,8 @@
 58.[Android保活Cactus](https://github.com/gyf-dev/Cactus)
 
 59.[判断Fragment是否可见](https://github.com/goweii/LazyFragment)
+
+60.[快手线上内存监控方案](https://github.com/KwaiAppTeam/KOOM)
 
 ## Android性能测试
 

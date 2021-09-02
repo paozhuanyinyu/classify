@@ -340,6 +340,20 @@
 
 13.[闲鱼开源的数据状态管理框架fish-redux](https://github.com/alibaba/fish-redux)
 
+14.[Flutter扩大点击区域](https://github.com/fluttercandies/extra_hittest_area)
+
+15.[Flutter自适应多行文本](https://github.com/leisim/auto_size_text)
+
+16.[状态管理框架Provider](https://github.com/rrousselGit/provider)
+
+17.[状态管理框架getX](https://github.com/jonataslaw/getx)
+
+18.[网络请求Dio](https://github.com/flutterchina/dio)
+
+19.[58动态Flutter布局Fair](https://github.com/wuba/fair)
+
+20.[超级通道dart_native](https://github.com/dart-native/dart_native)
+
 ### Python
 1.[下载免费音乐的Python库music-dl](https://github.com/0xHJK/music-dl)
 
